@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cvR6xWWV)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12887306&assignment_repo_type=AssignmentRepo)
+
 **Integrated Ethical Cybersecurity Tool Suite**
 
 Description: In this assignment, students will demonstrate their proficiency in cybersecurity scripting by creating four distinct security or automation tools using Python. These tools should address various aspects of cybersecurity, administrative functions, or devops, such as network scanning, encryption, intrusion detection, and more. The final deliverable will be an integrated program that orchestrates these tools, executing them as individual modules upon command.
